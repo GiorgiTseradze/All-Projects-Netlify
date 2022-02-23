@@ -2,7 +2,7 @@
 const projects = [
     {
         name: "Playlist",
-        link: "https://sharp-noyce-716750.netlify.app"
+        link: "https://awesome-albattani-3f695f.netlify.app"
     },
     {
         name: "Random Choice Picker",
