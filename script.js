@@ -5,6 +5,10 @@ const projects = [
         link: "https://awesome-albattani-3f695f.netlify.app"
     },
     {
+        name: "Weather App",
+        link: "https://jolly-yalow-a1fa12.netlify.app/"
+    },
+    {
         name: "Random Choice Picker",
         link: "https://xenodochial-raman-17c832.netlify.app/"
     },
