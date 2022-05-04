@@ -1,6 +1,10 @@
 //Data
 const projects = [
     {
+        name: "Budget Calculator",
+        link: "https://budget-calculator-gts.netlify.app"
+    },
+    {
         name: "Playlist",
         link: "https://awesome-albattani-3f695f.netlify.app"
     },
